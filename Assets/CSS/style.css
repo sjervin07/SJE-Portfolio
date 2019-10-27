@@ -37,6 +37,11 @@ li {
     
     
 }
+
+li a {
+    color:#777777
+}
+
 nav {
     position:relative;
     padding: 10px 20px;
@@ -50,9 +55,7 @@ nav {
     
 }
 
-.Menu-Area li {
-    color:#777777
-}
+
 
 
 .container {
