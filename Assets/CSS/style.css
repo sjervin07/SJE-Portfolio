@@ -2,6 +2,8 @@ h1 {
     color:#4aaaa5;
     font-family: 'Georgia', 'Times New Roman', Times, serif
 
+
+
 }
 #aboutme {
        color: #4aaaa5;
@@ -17,10 +19,12 @@ h1 {
 
 body {
     background-image: url(/Users/shannon/SJE-Portfolio/Assets/Images/triangle-mosaic.png);
-    border-color: #dddddd
+    border-color: #dddddd;
+    color: #777777
 
 }
 ul {
+    color: #777777;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -29,7 +33,8 @@ ul {
     
 }
 li {
-    display:inline
+    display:inline;
+    
     
 }
 nav {
@@ -43,6 +48,10 @@ nav {
 .navigation-bar {
     padding-top:25px;
     
+}
+
+.Menu-Area li {
+    color:#777777
 }
 
 
