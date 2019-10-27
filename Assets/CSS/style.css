@@ -1,0 +1,55 @@
+
+#aboutme {
+       color: #4aaaa5;
+       text-decoration-style: bold;
+       width: 150px;
+       height: 40px;
+       text-align: center;
+       position: relative;
+       bottom: -150;
+       left: 20;
+
+}
+
+body {
+    background-image: url(/Users/shannon/SJE-Portfolio/Assets/Images/triangle-mosaic.png);
+    border-color: #dddddd
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right
+    
+    
+}
+li {
+    display:inline
+    
+}
+nav {
+    position:relative;
+    padding: 10px 20px;
+    border-color:#cccccc;
+    background-color: #ffffff;
+}
+
+.navigation-bar {
+    padding-top:25px;
+}
+
+
+.container {
+    margin: 0 auto;
+    margin-top: 50px;
+    float: center;
+    background-color: #ffffff;
+    width:960px;
+    height: 550px;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    font-family: 'Arial','Helvetica Neue', Helvetica, 'sans-serf';
+
+
+}
